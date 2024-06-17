@@ -21,7 +21,7 @@ I am actively seeking opportunities as a Fresher/Junior .NET Developer. If you a
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:lexuanduc.hn@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Send-Mail-red?style=for-the-badge&logo=gmail" alt="Send Mail" />
+    <img src="https://img.shields.io/badge/Send%20to-Mail-red?style=for-the-badge&logo=gmail" alt="Send Mail" />
   </a>
 </p>
 
