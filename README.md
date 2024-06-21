@@ -17,7 +17,7 @@ I am actively seeking opportunities as a Fresher/Junior .NET Developer. If you a
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="[https://linkedin.com/in/mohamedelareeg](https://www.linkedin.com/in/lxduc/)" target="blank">
+  <a href="https://www.linkedin.com/in/lxduc/" target="blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:lexuanduc.hn@gmail.com" target="blank">
