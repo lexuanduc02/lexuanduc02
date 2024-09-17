@@ -12,7 +12,7 @@
 
 ### Looking for Opportunities
 
-I am actively seeking opportunities as a Fresher/Junior .NET Developer. If you are looking for a skilled and experienced professional to join your team, feel free to reach out!
+I am actively working as a Fresher .NET Developer. If you are looking for a skilled and experienced professional to join your team, feel free to reach out!
 
 <h3 align="left">Connect with me:</h3>
 
