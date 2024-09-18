@@ -7,12 +7,12 @@
 <h3 align="center">Fresher Software Engineer | Fresher in .NET  </h3>
 
 <p align="center">
-  Welcome to my profile! I'm a Software Engineer with expertise in .NETdevelopment. Passionate about coding and continuous learning, I bring a wealth of experience to every project.
+  Welcome to my profile! I'm a Software Engineer with expertise in .NET development. Passionate about coding and continuous learning, I bring a wealth of experience to every project.
 </p>
 
 ### Looking for Opportunities
 
-I am actively working as a Fresher .NET Developer. If you are looking for a skilled and experienced professional to join your team, feel free to reach out!
+I am actively working as a Fresher .NET Developer. If you are looking for a developer to join your team, feel free to reach out!
 
 <h3 align="left">Connect with me:</h3>
 
