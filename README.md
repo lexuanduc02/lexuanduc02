@@ -4,7 +4,7 @@
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w">
 </p>
-<h3 align="center">Fresher Software Engineer | Fresher in .NET  </h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   Welcome to my profile! I'm a Software Engineer with expertise in .NET development. Passionate about coding and continuous learning, I bring a wealth of experience to every project.
